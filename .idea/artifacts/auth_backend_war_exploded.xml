@@ -17,6 +17,10 @@
         <element id="directory" name="lib">
           <element id="library" level="project" name="Maven: mysql:mysql-connector-java:8.0.26" />
           <element id="library" level="project" name="Maven: com.google.protobuf:protobuf-java:3.11.4" />
+          <element id="library" level="project" name="Maven: org.eclipse:yasson:2.0.2" />
+          <element id="library" level="project" name="Maven: jakarta.json.bind:jakarta.json.bind-api:2.0.0" />
+          <element id="library" level="project" name="Maven: jakarta.json:jakarta.json-api:2.0.0" />
+          <element id="library" level="project" name="Maven: org.glassfish:jakarta.json:module:2.0.0" />
         </element>
       </element>
       <element id="directory" name="META-INF">
